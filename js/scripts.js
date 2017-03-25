@@ -4,4 +4,4 @@ var animalUpperCase = animal.toUpperCase();
 var textReplace = text.replace('Papugi', animalUpperCase);
 var textReplaceHalf = textReplace.substr(0, textAfter.length/2);
 
-console.log(textReplaceHalf)
+console.log(textReplaceHalf);
