@@ -1,7 +1,7 @@
 var text = 'Papugi koszą trawę, unosząc się nad ziemią 15 centymetrów, na czerwonych dywanach.';
-var animal ='Zielone słonie';
-var animalUpperCase = animal.toUpperCase();
-var textReplace = text.replace('Papugi', animalUpperCase);
-var textReplaceHalf = textReplace.substr(0, textReplace.length / 2);
+  animal ='Zielone słonie';
+  animalUpperCase = animal.toUpperCase();
+  textReplace = text.replace('Papugi', animalUpperCase);
+  textReplaceHalf = textReplace.substr(0, textReplace.length / 2);
 
-console.log(textReplaceHalf);
+textReplaceHalf;
